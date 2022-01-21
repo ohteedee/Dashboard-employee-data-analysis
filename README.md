@@ -1,10 +1,10 @@
-# employee-data-analysis
+# Dashboard-employee-data-analysis
 
 <img src="dashboards/Screenshot.jpeg" alt="Screenshot" width="2000"/>
 
-This is a small project to analyse the the employee performace in sales of company products using northwind dataset. 
+This is a small project to analyse the employee performace in sales of products using northwind dataset. 
 
-From the data, it is obvious that Margaret is the employee with the highest number of product sold as well as the gross revenew.
+From the data, it is obvious that Margaret is the employee with the highest number of products sold as well as the gross revenew.
 Interestingly, whereas shes is selling more product, she is giving less discounts when the discount is considered relative to the total revenue she is generating. 
 By contrasts, Steven is is not meeting the revenue target but he is giving the highest one of the highest discount when the discount is considered relative to the total revenue he generated. 
 
